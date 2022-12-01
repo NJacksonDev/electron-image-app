@@ -60,3 +60,9 @@ a:hover {
   align-items: center;
   margin: 20px 0;
 }
+
+.save-button {
+  position: fixed;
+  top: 1em;
+  right: 1em;
+}
